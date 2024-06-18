@@ -43,7 +43,7 @@ public class MyServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//API Key
-		String apiKey = "1b8775eea6c4e4648ca32faa60207ae0";
+		String apiKey = "insert your own Api";
 				// Get the city from the form input
 		        String city = request.getParameter("city"); 
 
